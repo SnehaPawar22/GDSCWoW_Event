@@ -1,6 +1,6 @@
 ## HOW TO GET STARTED WITH TRAILHEAD PROFILE
-### CLICK the below link and sign up if you are creating for the 1st time.
-### ALREADY HAVE A TRAILHEAD ACCOUNT THEN JUST LOGIN TO IT BY USING THE BELOW LINK
+### Click the below link and sign up if you are creating for the 1st time.
+### Already have a TRAILHEAD ACCOUNT then just login to it by using the below link.
 
 
 https://trailhead.salesforce.com/
