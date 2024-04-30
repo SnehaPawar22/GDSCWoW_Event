@@ -15,3 +15,23 @@ internet connection and browser to access anywhere in the world that is nothing 
 * Force.com is PAAS product which is used to develop application on top of salesforce.
 
 ### SAAS(Software as a service)
+* There is no need to dowload and install any software to the local machine there is no need of compiler or nothing, we can access through
+  just internet and browser to use the application.
+  ex:- salesforce
+* Salesforce is SAAS product.
+
+### IAAS(Infrastructure as a service)
+* Its used to get hardware things from the cloud environment. for ex:- If we have any heavy datasets to load, if we have less storage in our
+  local machine it takes hours together or half a day to process the things but with cloud IAAS service by paying to that service we get a virtual
+  machine where we can scale up to higher processor to execute our things.
+
+### What is Salesforce?
+---->Salesforce is a popular CRM tool for support, sales, and marketing teams worldwide. Salesforce services allow businesses to use cloud technology to better connect with partners, customers, and potential customers.
+
+### What is Trailhead?
+---->Trailhead is the free online learning platform from Salesforce. Learn in-demand skills, earn resume-worthy credentials, and connect to new career opportunities through the Trailblazer Community. Get Started for Free!!
+
+### What is Salesforce Org?
+---->S
+
+
