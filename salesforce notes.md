@@ -32,6 +32,6 @@ internet connection and browser to access anywhere in the world that is nothing 
 ---->Trailhead is the free online learning platform from Salesforce. Learn in-demand skills, earn resume-worthy credentials, and connect to new career opportunities through the Trailblazer Community. Get Started for Free!!
 
 ### What is Salesforce Org?
----->S
+---->A Salesforce org, short of organization, refers to a unique instance of salesforce that stores and manages. It's essentially a complete salesforce environment that includes all the settings, configurations,data, and applications specific to your salesforce implementation.
 
 
